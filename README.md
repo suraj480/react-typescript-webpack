@@ -31,10 +31,13 @@
 
 ### create styles.css file 
 ### npm add -D css-loader style-loader
+### add configration in webpack.config.js 
 ### restart server now css file will be loaded
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/56b60ea9-0069-4d99-9082-b58631072044)
 
 ## STEP-4 for adding image webpack-loader
 ### create declaration.d.ts file (typescript specific only for image )
+###  add configration in webpack.config.js 
 
 
 
