@@ -23,7 +23,7 @@ module.exports = {
     filename: "bundle.js",
   },
   mode: "development",
-  Plugin: [
+  plugins: [
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, "..", "./src/index.html"),
     }),
