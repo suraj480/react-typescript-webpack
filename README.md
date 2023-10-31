@@ -27,5 +27,17 @@
 ### Run project by npm start
 ![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/490319dd-354a-4c41-9b98-f0f8daef3744)
 
+## STEP-3 for adding css webpack-loader
+
+### create styles.css file 
+### npm add -D css-loader style-loader
+### restart server now css file will be loaded
+
+## STEP-4 for adding image webpack-loader
+### create declaration.d.ts file (typescript specific only for image )
+
+
+
+
 
 
