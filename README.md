@@ -17,6 +17,9 @@
 
 ### create a folder webpack inside that folder create a file webpack-config.js and add configuration
 
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/ae443df8-8224-41a3-8bd3-3adf3188afed)
+
+
 ### add start script in package.json file "start":"webpack serve --config webpack/webpack.config.js --open",
 
 
