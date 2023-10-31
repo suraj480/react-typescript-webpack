@@ -9,4 +9,6 @@
 ### npm add -D typescript @types/react @types/react-dom
 ### add tsconfig.json file as it Is.
 ### create App.tsx and index.tsx file
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/6dafb9cd-8c42-4c95-874f-e1ef5e1b4188)
+
 
