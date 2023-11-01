@@ -69,6 +69,14 @@ Suppose if you update any thing in one component the other components state valu
 ![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/57c2171b-ef03-473c-82d1-2fb50c760704)
 
 
+# FROMATING ALL PROJECT USING PRETTIER
+## npm i prettier eslint-config-prettier eslint-plugin-prettier
+## create .prettierrc.js file and add configuration into it.
+
+## Add this inside script of package.json "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+## npm run format
+
+
 
 
 
