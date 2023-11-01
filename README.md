@@ -40,7 +40,7 @@
 ###  add configration in webpack.config.js 
 
 
-# f03c15 Adding files for different environments like production and development mode
+# Adding files for different environments like production and development mode
 ## (i) change name of file from webpack-config.js (as this main_master branch is taken from main branch )to webpack-common.js 
 ## (ii) Delete mode :"development" from webpack-common.js
 ### What is a source map?
