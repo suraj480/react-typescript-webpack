@@ -44,6 +44,16 @@
 ## (i) change name of file from webpack-config.js (as this main_master branch is taken from main branch )to webpack-common.js 
 ## (ii) Delete mode :"development" from webpack-common.js
 ## (iii) npm i -D webpack-merge
+## (iv) Add configuration for various mode
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/911a4f69-f342-410f-a1c0-b5f4779f1ac0)
+## (v) create build by npm build and enter to buld cd ./build/ and start build by npx serve
+
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/13a91c61-dd0a-49f0-9ce4-fa5f55587ba0)
+
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/2ccdbeb2-dfa3-4574-8b2b-bb5b4b3ceb3e)
+
+
+
 
 
 ### What is a source map?
