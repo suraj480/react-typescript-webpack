@@ -43,6 +43,9 @@
 # Adding files for different environments like production and development mode
 ## (i) change name of file from webpack-config.js (as this main_master branch is taken from main branch )to webpack-common.js 
 ## (ii) Delete mode :"development" from webpack-common.js
+## (iii) npm i -D webpack-merge
+
+
 ### What is a source map?
 Use a source map — Firefox Source Docs documentation
 A source map is a file that maps from the transformed source to the original source, enabling the browser to reconstruct the original source and present the reconstructed original in the debugger.
