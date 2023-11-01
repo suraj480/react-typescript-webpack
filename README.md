@@ -63,8 +63,9 @@ A source map is a file that maps from the transformed source to the original sou
 # react-refresh-webpack-plugin
 Suppose if you update any thing in one component the other components state value also reset to initial to prevent this thing react-refresh-webpack-plugin comes into picture
 
-## STEP ----
+## STEP-5
 ### npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+### add configration in webpack-dev.js
 
 
 
