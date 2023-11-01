@@ -40,6 +40,21 @@
 ###  add configration in webpack.config.js 
 
 
+# f03c15 Adding files for different environments like production and development mode
+## (i) change name of file from webpack-config.js (as this main_master branch is taken from main branch )to webpack-common.js 
+## (ii) Delete mode :"development" from webpack-common.js
+### What is a source map?
+Use a source map — Firefox Source Docs documentation
+A source map is a file that maps from the transformed source to the original source, enabling the browser to reconstruct the original source and present the reconstructed original in the debugger.
+
+# react-refresh-webpack-plugin
+Suppose if you update any thing in one component the other components state value also reset to initial to prevent this thing react-refresh-webpack-plugin comes into picture
+
+## STEP ----
+### npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+
+
+
 
 
 
