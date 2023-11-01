@@ -66,6 +66,8 @@ Suppose if you update any thing in one component the other components state valu
 ## STEP-5
 ### npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 ### add configration in webpack-dev.js
+![image](https://github.com/suraj480/react-typescript-webpack/assets/72219318/57c2171b-ef03-473c-82d1-2fb50c760704)
+
 
 
 
